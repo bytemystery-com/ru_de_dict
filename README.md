@@ -9,15 +9,12 @@ Pay attention to set the right settings:
 As data source I used the [OpenRussian Website] (https://de.openrussian.org/).  
 ~88000 words
 
-
 Author: Reiner Pröls  
 Licence: MIT  
 
-### Files
+## Files
+
 [XDXF file](https://github.com/bytemystery-com/ru_de_dict/releases/download/v1.3/ru_de_openrussian.xdxf)  
 [Dic file for PocketReader](https://github.com/bytemystery-com/ru_de_dict/releases/download/v1.3/ru_de_openrussian.dic)  
 
-
-
 © Copyright Reiner Pröls, 2026
-
