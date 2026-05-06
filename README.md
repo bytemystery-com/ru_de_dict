@@ -6,6 +6,7 @@ for my PocketReader.
 Pay attention to set the right settings:  
 ![alt text](./screenshots/pyglossary_opt1.jpg "Options 1")  
 ![alt text](./screenshots/pyglossary_opt2.jpg "Options 2")
+![alt text](./screenshots/pyglossary_opt3.jpg "Options 3")
 As data source I used the [OpenRussian Website] (https://de.openrussian.org/).  
 ~88000 words
 
